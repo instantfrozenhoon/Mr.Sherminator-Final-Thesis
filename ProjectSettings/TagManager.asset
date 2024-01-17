@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - QuestItem
+  - ActivateQuest
+  - LevelClear
+  - TimerStart
+  - BoulderItem
+  - StarItem
+  - StarPressurePlate
+  - BoulderPressurePlate
+  - Lever1
+  - Lever2
+  - Lever3
+  - Lever4
+  - Spike
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Collision
+    uniqueID: 4114811801
+    locked: 0
+  - name: Quest
+    uniqueID: 1827442877
+    locked: 0
+  - name: Player
+    uniqueID: 506345349
+    locked: 0
+  - name: Context
+    uniqueID: 3884822209
+    locked: 0
+  - name: Camera
+    uniqueID: 1261055233
+    locked: 0
